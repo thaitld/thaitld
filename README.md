@@ -3,10 +3,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=thaitld2302&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-🎓 I’m a Software Engineering student at FPT University with hands-on experience building real-world full-stack & mobile projects.
-🌱 I’m currently learning Full-Stack Web/Mobile Development, WebGL/Shaders & System Design
-💬 Ask me about TypeScript, React, React Native (Expo), Flutter, Tailwind CSS, Node.js
-📫 How to reach me: thait5236@gmail.com
+- 🎓 I’m a Software Engineering student at FPT University with hands-on experience building real-world full-stack & mobile projects.
+- 🌱 I’m currently learning Full-Stack Web/Mobile Development, WebGL/Shaders & System Design
+- 💬 Ask me about TypeScript, React, React Native (Expo), Flutter, Tailwind CSS, Node.js
+- 📫 How to reach me: thait5236@gmail.com
 ---
 
 ### 🛠️ Tech Stack & Tools
